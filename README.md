@@ -1,2 +1,3 @@
 # menuGe
-menu com ia
+## menu com ia
+### Gemini
